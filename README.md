@@ -1,5 +1,5 @@
 # CodeFilling
 
-This repository contains the official PyTorch implementation of
+This repository contains the official PyTorch implementation of CVPR2024 paper
 
-## Communication-Efficient Collaborative Perception via Information Filling with Codebook [CVPR2024]
+## Communication-Efficient Collaborative Perception via Information Filling with Codebook 
